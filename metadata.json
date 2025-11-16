@@ -1,0 +1,5 @@
+{
+  "name": "AI Recruitment & Chat Assistant",
+  "description": "An AI-powered assistant featuring a chatbot for quick questions and a recruitment sandbox to generate professional job descriptions and interview guides from raw notes.",
+  "requestFramePermissions": []
+}
